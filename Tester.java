@@ -1,3 +1,6 @@
+//Sample initial program testing the movement of one of the platfroms, the movement of the ball and the mechanism used to
+    //determine points and eliminations.
+
 import javax.swing.*;
 import java.awt.*;
 import java .awt.event.*;
