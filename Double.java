@@ -1,4 +1,5 @@
-
+//This program brings in both the platforms enabling 2 players to play at the same time
+//TODO: GUI menu, GUI score representation at the end.
 import javax.swing.*;
 import java.awt.*;
 import java .awt.event.*;
