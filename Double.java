@@ -1,6 +1,4 @@
-/**
- * Created by Kailu on 1/16/17.
- */
+
 import javax.swing.*;
 import java.awt.*;
 import java .awt.event.*;
